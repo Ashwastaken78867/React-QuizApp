@@ -23,12 +23,13 @@ As you answer questions, the app instantly updates your score and provides a com
 - 📈 Score Update: Instant feedback on your score after answering each question.
 - 📜 Score Card: Get a comprehensive scorecard with your quiz results.
 - ⏱️ Auto-Submission: The quiz automatically submits when the time is up.
-
 ## 📚Learning Points 
 
-- 📡 Creating a Fake API: Learn how to create and deploy a mock API and integrate it into project.
 - ⚙️ State Management: Explore state management techniques using the `useReducer` hook to efficiently handle application state.
-- 🔄 Fetching Data with `useEffect()`: Utilize the `useEffect` hook for fetching API data and managing timers.
+- 🔄 React Hooks: Gain hands-on experience with hooks like `useEffect()` and `useReducer()` for side effects and state management.
+- 🧠 Conditional Rendering & Logic: Learn to build interactive UIs with dynamic rendering based on user actions.
+- 🕹️ Component-Based Architecture: Understand how to break the UI into reusable and maintainable components.
+
 
 ## How to Install and Run
 
