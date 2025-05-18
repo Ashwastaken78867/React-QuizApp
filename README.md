@@ -6,7 +6,7 @@ As you answer questions, the app instantly updates your score and provides a com
 
 # Demo
 
- [WEBSITE-Demo](/)
+ [WEBSITE-Demo](/https://react-quizapp-sxn2.onrender.com)
  
 
 
