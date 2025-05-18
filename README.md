@@ -34,14 +34,16 @@ As you answer questions, the app instantly updates your score and provides a com
 
 1. Clone the repository:
 
-    ```bash
-   gh repo clone VINAYAK9669/React-QuizApp
+    ```powershell
+      git clone https://github.com/Ashwastaken78867/React-QUIZ-APP
+
+   
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd React-QuizApp
+    cd React-QUIZ-APP
     npm install
     ```
 
